@@ -17,3 +17,4 @@ C:\Monopoly\game\.godot\mono\temp\obj\Debug\refint\Monopoly.dll
 C:\Monopoly\game\.godot\mono\temp\obj\Debug\Monopoly.pdb
 C:\Monopoly\game\.godot\mono\temp\obj\Debug\Monopoly.genruntimeconfig.cache
 C:\Monopoly\game\.godot\mono\temp\obj\Debug\ref\Monopoly.dll
+C:\Monopoly\game\.godot\mono\temp\obj\Debug\Monopoly.sourcelink.json

@@ -9,3 +9,4 @@ C:\Monopoly\src\Monopoly.Core\obj\Debug\net10.0\Monopoly.Core.dll
 C:\Monopoly\src\Monopoly.Core\obj\Debug\net10.0\refint\Monopoly.Core.dll
 C:\Monopoly\src\Monopoly.Core\obj\Debug\net10.0\Monopoly.Core.pdb
 C:\Monopoly\src\Monopoly.Core\obj\Debug\net10.0\ref\Monopoly.Core.dll
+C:\Monopoly\src\Monopoly.Core\obj\Debug\net10.0\Monopoly.Core.sourcelink.json
