@@ -1,0 +1,38 @@
+{
+  "chance": [
+    { "text": "Advance to Boardwalk.", "action": "AdvanceTo", "value": 39 },
+    { "text": "Advance to GO. Collect $200.", "action": "AdvanceTo", "value": 0 },
+    { "text": "Advance to Illinois Avenue. If you pass GO, collect $200.", "action": "AdvanceTo", "value": 24 },
+    { "text": "Advance to St. Charles Place. If you pass GO, collect $200.", "action": "AdvanceTo", "value": 11 },
+    { "text": "Advance to the nearest Railroad. If owned, pay the owner twice the rent.", "action": "AdvanceToNearestRailroad" },
+    { "text": "Advance to the nearest Railroad. If owned, pay the owner twice the rent.", "action": "AdvanceToNearestRailroad" },
+    { "text": "Advance to the nearest Utility. If owned, roll the dice and pay the owner 10x the roll.", "action": "AdvanceToNearestUtility" },
+    { "text": "Bank pays you a dividend of $50.", "action": "Collect", "value": 50 },
+    { "text": "Get Out of Jail Free. Keep this card until needed.", "action": "GetOutOfJailFree" },
+    { "text": "Go back 3 spaces.", "action": "MoveBack", "value": 3 },
+    { "text": "Go to Jail. Do not pass GO, do not collect $200.", "action": "GoToJail" },
+    { "text": "General repairs: pay $25 per house and $100 per hotel.", "action": "Repairs", "value": 25, "value2": 100 },
+    { "text": "Speeding fine: pay $15.", "action": "Pay", "value": 15 },
+    { "text": "Take a trip to Reading Railroad. If you pass GO, collect $200.", "action": "AdvanceTo", "value": 5 },
+    { "text": "You have been elected Chairman of the Board. Pay each player $50.", "action": "PayEachPlayer", "value": 50 },
+    { "text": "Your building loan matures. Collect $150.", "action": "Collect", "value": 150 }
+  ],
+  "communityChest": [
+    { "text": "Advance to GO. Collect $200.", "action": "AdvanceTo", "value": 0 },
+    { "text": "Bank error in your favor. Collect $200.", "action": "Collect", "value": 200 },
+    { "text": "Doctor's fee. Pay $50.", "action": "Pay", "value": 50 },
+    { "text": "From sale of stock you get $50.", "action": "Collect", "value": 50 },
+    { "text": "Get Out of Jail Free. Keep this card until needed.", "action": "GetOutOfJailFree" },
+    { "text": "Go to Jail. Do not pass GO, do not collect $200.", "action": "GoToJail" },
+    { "text": "Holiday fund matures. Receive $100.", "action": "Collect", "value": 100 },
+    { "text": "Income tax refund. Collect $20.", "action": "Collect", "value": 20 },
+    { "text": "It is your birthday. Collect $10 from every player.", "action": "CollectFromEachPlayer", "value": 10 },
+    { "text": "Life insurance matures. Collect $100.", "action": "Collect", "value": 100 },
+    { "text": "Pay hospital fees of $100.", "action": "Pay", "value": 100 },
+    { "text": "Pay school fees of $50.", "action": "Pay", "value": 50 },
+    { "text": "Receive a $25 consultancy fee.", "action": "Collect", "value": 25 },
+    { "text": "Street repairs: pay $40 per house and $115 per hotel.", "action": "Repairs", "value": 40, "value2": 115 },
+    { "text": "You won second prize in a beauty contest. Collect $10.", "action": "Collect", "value": 10 },
+    { "text": "You inherit $100.", "action": "Collect", "value": 100 }
+  ]
+}

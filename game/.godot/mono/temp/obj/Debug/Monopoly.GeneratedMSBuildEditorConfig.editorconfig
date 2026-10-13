@@ -1,0 +1,23 @@
+is_global = true
+build_property.GodotDisabledSourceGenerators = 
+build_property.GodotProjectDir = C:\Monopoly\game\
+build_property.GodotProjectDirBase64 = QzpcTW9ub3BvbHlcZ2FtZVw=
+build_property.GodotSourceGenerators = 
+build_property.IsGodotToolsProject = 
+build_property.TargetFramework = net10.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MonopolyGame
+build_property.ProjectDir = C:\Monopoly\game\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 

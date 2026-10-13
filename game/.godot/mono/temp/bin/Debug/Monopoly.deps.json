@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Monopoly/1.0.0": {
+        "dependencies": {
+          "GodotSharp": "4.7.2",
+          "GodotSharpEditor": "4.7.2",
+          "Monopoly.Core": "1.0.0"
+        },
+        "runtime": {
+          "Monopoly.dll": {}
+        }
+      },
+      "GodotSharp/4.7.2": {
+        "runtime": {
+          "lib/net8.0/GodotSharp.dll": {
+            "assemblyVersion": "4.7.2.0",
+            "fileVersion": "4.7.2.0"
+          }
+        }
+      },
+      "GodotSharpEditor/4.7.2": {
+        "dependencies": {
+          "GodotSharp": "4.7.2"
+        },
+        "runtime": {
+          "lib/net8.0/GodotSharpEditor.dll": {
+            "assemblyVersion": "4.7.2.0",
+            "fileVersion": "4.7.2.0"
+          }
+        }
+      },
+      "Monopoly.Core/1.0.0": {
+        "runtime": {
+          "Monopoly.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monopoly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GodotSharp/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7lbJgYB1o96H23sX0idzwhnY0DbRx0oJucYKP9xGQv5IcghlXUuxUv/xTMV+I1mW3Wh9uDdtuwtpwNurk2y7Fw==",
+      "path": "godotsharp/4.7.2",
+      "hashPath": "godotsharp.4.7.2.nupkg.sha512"
+    },
+    "GodotSharpEditor/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Pl2L2ppnXyDuiQ5tqp208/yFsdFUF3x+e81GOhZNLoaudaSOQ6p/Lf12/cUiDj2g/flI3Kdf+LYz+2MDs8/DtQ==",
+      "path": "godotsharpeditor/4.7.2",
+      "hashPath": "godotsharpeditor.4.7.2.nupkg.sha512"
+    },
+    "Monopoly.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

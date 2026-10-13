@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwN8D1LaXXQ=",
+  "success": true,
+  "projectFilePath": "C:\\Monopoly\\game\\Monopoly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\godot.sourcegenerators\\4.7.2\\godot.sourcegenerators.4.7.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\godotsharp\\4.7.2\\godotsharp.4.7.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\godotsharpeditor\\4.7.2\\godotsharpeditor.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Monopoly.Core.Tests/1.0.0": {
+        "dependencies": {
+          "Monopoly.Core": "1.0.0"
+        },
+        "runtime": {
+          "Monopoly.Core.Tests.dll": {}
+        }
+      },
+      "Monopoly.Core/1.0.0": {
+        "runtime": {
+          "Monopoly.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monopoly.Core.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Monopoly.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Monopoly.Core</RootNamespace>
+    <ImplicitUsings>disable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Data\*.json" LogicalName="Monopoly.Core.Data.%(Filename)%(Extension)" />
+  </ItemGroup>
+</Project>
